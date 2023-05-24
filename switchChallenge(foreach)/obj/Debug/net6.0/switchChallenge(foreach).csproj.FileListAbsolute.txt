@@ -1,0 +1,15 @@
+E:\C#\switchChallenge(foreach)\bin\Debug\net6.0\switchChallenge(foreach).exe
+E:\C#\switchChallenge(foreach)\bin\Debug\net6.0\switchChallenge(foreach).deps.json
+E:\C#\switchChallenge(foreach)\bin\Debug\net6.0\switchChallenge(foreach).runtimeconfig.json
+E:\C#\switchChallenge(foreach)\bin\Debug\net6.0\switchChallenge(foreach).dll
+E:\C#\switchChallenge(foreach)\bin\Debug\net6.0\switchChallenge(foreach).pdb
+E:\C#\switchChallenge(foreach)\obj\Debug\net6.0\switchChallenge(foreach).csproj.AssemblyReference.cache
+E:\C#\switchChallenge(foreach)\obj\Debug\net6.0\switchChallenge(foreach).GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\switchChallenge(foreach)\obj\Debug\net6.0\switchChallenge(foreach).AssemblyInfoInputs.cache
+E:\C#\switchChallenge(foreach)\obj\Debug\net6.0\switchChallenge(foreach).AssemblyInfo.cs
+E:\C#\switchChallenge(foreach)\obj\Debug\net6.0\switchChallenge(foreach).csproj.CoreCompileInputs.cache
+E:\C#\switchChallenge(foreach)\obj\Debug\net6.0\switchChallenge(foreach).dll
+E:\C#\switchChallenge(foreach)\obj\Debug\net6.0\refint\switchChallenge(foreach).dll
+E:\C#\switchChallenge(foreach)\obj\Debug\net6.0\switchChallenge(foreach).pdb
+E:\C#\switchChallenge(foreach)\obj\Debug\net6.0\switchChallenge(foreach).genruntimeconfig.cache
+E:\C#\switchChallenge(foreach)\obj\Debug\net6.0\ref\switchChallenge(foreach).dll

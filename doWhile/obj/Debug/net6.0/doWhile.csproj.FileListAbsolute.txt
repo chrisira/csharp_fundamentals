@@ -1,0 +1,15 @@
+E:\C#\doWhile\bin\Debug\net6.0\doWhile.exe
+E:\C#\doWhile\bin\Debug\net6.0\doWhile.deps.json
+E:\C#\doWhile\bin\Debug\net6.0\doWhile.runtimeconfig.json
+E:\C#\doWhile\bin\Debug\net6.0\doWhile.dll
+E:\C#\doWhile\bin\Debug\net6.0\doWhile.pdb
+E:\C#\doWhile\obj\Debug\net6.0\doWhile.csproj.AssemblyReference.cache
+E:\C#\doWhile\obj\Debug\net6.0\doWhile.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\doWhile\obj\Debug\net6.0\doWhile.AssemblyInfoInputs.cache
+E:\C#\doWhile\obj\Debug\net6.0\doWhile.AssemblyInfo.cs
+E:\C#\doWhile\obj\Debug\net6.0\doWhile.csproj.CoreCompileInputs.cache
+E:\C#\doWhile\obj\Debug\net6.0\doWhile.dll
+E:\C#\doWhile\obj\Debug\net6.0\refint\doWhile.dll
+E:\C#\doWhile\obj\Debug\net6.0\doWhile.pdb
+E:\C#\doWhile\obj\Debug\net6.0\doWhile.genruntimeconfig.cache
+E:\C#\doWhile\obj\Debug\net6.0\ref\doWhile.dll

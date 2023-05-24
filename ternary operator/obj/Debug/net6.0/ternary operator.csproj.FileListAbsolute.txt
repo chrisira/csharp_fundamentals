@@ -1,0 +1,15 @@
+E:\C#\ternary operator\bin\Debug\net6.0\ternary operator.exe
+E:\C#\ternary operator\bin\Debug\net6.0\ternary operator.deps.json
+E:\C#\ternary operator\bin\Debug\net6.0\ternary operator.runtimeconfig.json
+E:\C#\ternary operator\bin\Debug\net6.0\ternary operator.dll
+E:\C#\ternary operator\bin\Debug\net6.0\ternary operator.pdb
+E:\C#\ternary operator\obj\Debug\net6.0\ternary operator.csproj.AssemblyReference.cache
+E:\C#\ternary operator\obj\Debug\net6.0\ternary operator.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\ternary operator\obj\Debug\net6.0\ternary operator.AssemblyInfoInputs.cache
+E:\C#\ternary operator\obj\Debug\net6.0\ternary operator.AssemblyInfo.cs
+E:\C#\ternary operator\obj\Debug\net6.0\ternary operator.csproj.CoreCompileInputs.cache
+E:\C#\ternary operator\obj\Debug\net6.0\ternary operator.dll
+E:\C#\ternary operator\obj\Debug\net6.0\refint\ternary operator.dll
+E:\C#\ternary operator\obj\Debug\net6.0\ternary operator.pdb
+E:\C#\ternary operator\obj\Debug\net6.0\ternary operator.genruntimeconfig.cache
+E:\C#\ternary operator\obj\Debug\net6.0\ref\ternary operator.dll

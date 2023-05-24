@@ -1,0 +1,15 @@
+E:\C#\membersAndDeconstructors\bin\Debug\net6.0\membersAndDeconstructors.exe
+E:\C#\membersAndDeconstructors\bin\Debug\net6.0\membersAndDeconstructors.deps.json
+E:\C#\membersAndDeconstructors\bin\Debug\net6.0\membersAndDeconstructors.runtimeconfig.json
+E:\C#\membersAndDeconstructors\bin\Debug\net6.0\membersAndDeconstructors.dll
+E:\C#\membersAndDeconstructors\bin\Debug\net6.0\membersAndDeconstructors.pdb
+E:\C#\membersAndDeconstructors\obj\Debug\net6.0\membersAndDeconstructors.csproj.AssemblyReference.cache
+E:\C#\membersAndDeconstructors\obj\Debug\net6.0\membersAndDeconstructors.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\membersAndDeconstructors\obj\Debug\net6.0\membersAndDeconstructors.AssemblyInfoInputs.cache
+E:\C#\membersAndDeconstructors\obj\Debug\net6.0\membersAndDeconstructors.AssemblyInfo.cs
+E:\C#\membersAndDeconstructors\obj\Debug\net6.0\membersAndDeconstructors.csproj.CoreCompileInputs.cache
+E:\C#\membersAndDeconstructors\obj\Debug\net6.0\membersAndDeconstructors.dll
+E:\C#\membersAndDeconstructors\obj\Debug\net6.0\refint\membersAndDeconstructors.dll
+E:\C#\membersAndDeconstructors\obj\Debug\net6.0\membersAndDeconstructors.pdb
+E:\C#\membersAndDeconstructors\obj\Debug\net6.0\membersAndDeconstructors.genruntimeconfig.cache
+E:\C#\membersAndDeconstructors\obj\Debug\net6.0\ref\membersAndDeconstructors.dll

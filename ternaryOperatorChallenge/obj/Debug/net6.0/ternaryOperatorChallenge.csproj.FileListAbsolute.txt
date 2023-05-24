@@ -1,0 +1,15 @@
+E:\C#\ternaryOperatorChallenge\bin\Debug\net6.0\ternaryOperatorChallenge.exe
+E:\C#\ternaryOperatorChallenge\bin\Debug\net6.0\ternaryOperatorChallenge.deps.json
+E:\C#\ternaryOperatorChallenge\bin\Debug\net6.0\ternaryOperatorChallenge.runtimeconfig.json
+E:\C#\ternaryOperatorChallenge\bin\Debug\net6.0\ternaryOperatorChallenge.dll
+E:\C#\ternaryOperatorChallenge\bin\Debug\net6.0\ternaryOperatorChallenge.pdb
+E:\C#\ternaryOperatorChallenge\obj\Debug\net6.0\ternaryOperatorChallenge.csproj.AssemblyReference.cache
+E:\C#\ternaryOperatorChallenge\obj\Debug\net6.0\ternaryOperatorChallenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\ternaryOperatorChallenge\obj\Debug\net6.0\ternaryOperatorChallenge.AssemblyInfoInputs.cache
+E:\C#\ternaryOperatorChallenge\obj\Debug\net6.0\ternaryOperatorChallenge.AssemblyInfo.cs
+E:\C#\ternaryOperatorChallenge\obj\Debug\net6.0\ternaryOperatorChallenge.csproj.CoreCompileInputs.cache
+E:\C#\ternaryOperatorChallenge\obj\Debug\net6.0\ternaryOperatorChallenge.dll
+E:\C#\ternaryOperatorChallenge\obj\Debug\net6.0\refint\ternaryOperatorChallenge.dll
+E:\C#\ternaryOperatorChallenge\obj\Debug\net6.0\ternaryOperatorChallenge.pdb
+E:\C#\ternaryOperatorChallenge\obj\Debug\net6.0\ternaryOperatorChallenge.genruntimeconfig.cache
+E:\C#\ternaryOperatorChallenge\obj\Debug\net6.0\ref\ternaryOperatorChallenge.dll

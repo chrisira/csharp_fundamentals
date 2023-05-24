@@ -1,0 +1,15 @@
+E:\C#\loopsChallenge\obj\Debug\net6.0\loopsChallenge.csproj.AssemblyReference.cache
+E:\C#\loopsChallenge\obj\Debug\net6.0\loopsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\loopsChallenge\obj\Debug\net6.0\loopsChallenge.AssemblyInfoInputs.cache
+E:\C#\loopsChallenge\obj\Debug\net6.0\loopsChallenge.AssemblyInfo.cs
+E:\C#\loopsChallenge\obj\Debug\net6.0\loopsChallenge.csproj.CoreCompileInputs.cache
+E:\C#\loopsChallenge\bin\Debug\net6.0\loopsChallenge.exe
+E:\C#\loopsChallenge\bin\Debug\net6.0\loopsChallenge.deps.json
+E:\C#\loopsChallenge\bin\Debug\net6.0\loopsChallenge.runtimeconfig.json
+E:\C#\loopsChallenge\bin\Debug\net6.0\loopsChallenge.dll
+E:\C#\loopsChallenge\bin\Debug\net6.0\loopsChallenge.pdb
+E:\C#\loopsChallenge\obj\Debug\net6.0\loopsChallenge.dll
+E:\C#\loopsChallenge\obj\Debug\net6.0\refint\loopsChallenge.dll
+E:\C#\loopsChallenge\obj\Debug\net6.0\loopsChallenge.pdb
+E:\C#\loopsChallenge\obj\Debug\net6.0\loopsChallenge.genruntimeconfig.cache
+E:\C#\loopsChallenge\obj\Debug\net6.0\ref\loopsChallenge.dll

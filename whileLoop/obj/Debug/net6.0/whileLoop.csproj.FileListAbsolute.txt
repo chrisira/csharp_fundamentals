@@ -1,0 +1,15 @@
+E:\C#\whileLoop\bin\Debug\net6.0\whileLoop.exe
+E:\C#\whileLoop\bin\Debug\net6.0\whileLoop.deps.json
+E:\C#\whileLoop\bin\Debug\net6.0\whileLoop.runtimeconfig.json
+E:\C#\whileLoop\bin\Debug\net6.0\whileLoop.dll
+E:\C#\whileLoop\bin\Debug\net6.0\whileLoop.pdb
+E:\C#\whileLoop\obj\Debug\net6.0\whileLoop.csproj.AssemblyReference.cache
+E:\C#\whileLoop\obj\Debug\net6.0\whileLoop.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\whileLoop\obj\Debug\net6.0\whileLoop.AssemblyInfoInputs.cache
+E:\C#\whileLoop\obj\Debug\net6.0\whileLoop.AssemblyInfo.cs
+E:\C#\whileLoop\obj\Debug\net6.0\whileLoop.csproj.CoreCompileInputs.cache
+E:\C#\whileLoop\obj\Debug\net6.0\whileLoop.dll
+E:\C#\whileLoop\obj\Debug\net6.0\refint\whileLoop.dll
+E:\C#\whileLoop\obj\Debug\net6.0\whileLoop.pdb
+E:\C#\whileLoop\obj\Debug\net6.0\whileLoop.genruntimeconfig.cache
+E:\C#\whileLoop\obj\Debug\net6.0\ref\whileLoop.dll
