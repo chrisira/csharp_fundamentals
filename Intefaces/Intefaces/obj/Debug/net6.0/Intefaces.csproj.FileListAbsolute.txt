@@ -1,0 +1,15 @@
+C:\Users\Bishop\Documents\C#\Intefaces\Intefaces\bin\Debug\net6.0\Intefaces.exe
+C:\Users\Bishop\Documents\C#\Intefaces\Intefaces\bin\Debug\net6.0\Intefaces.deps.json
+C:\Users\Bishop\Documents\C#\Intefaces\Intefaces\bin\Debug\net6.0\Intefaces.runtimeconfig.json
+C:\Users\Bishop\Documents\C#\Intefaces\Intefaces\bin\Debug\net6.0\Intefaces.dll
+C:\Users\Bishop\Documents\C#\Intefaces\Intefaces\bin\Debug\net6.0\Intefaces.pdb
+C:\Users\Bishop\Documents\C#\Intefaces\Intefaces\obj\Debug\net6.0\Intefaces.csproj.AssemblyReference.cache
+C:\Users\Bishop\Documents\C#\Intefaces\Intefaces\obj\Debug\net6.0\Intefaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishop\Documents\C#\Intefaces\Intefaces\obj\Debug\net6.0\Intefaces.AssemblyInfoInputs.cache
+C:\Users\Bishop\Documents\C#\Intefaces\Intefaces\obj\Debug\net6.0\Intefaces.AssemblyInfo.cs
+C:\Users\Bishop\Documents\C#\Intefaces\Intefaces\obj\Debug\net6.0\Intefaces.csproj.CoreCompileInputs.cache
+C:\Users\Bishop\Documents\C#\Intefaces\Intefaces\obj\Debug\net6.0\Intefaces.dll
+C:\Users\Bishop\Documents\C#\Intefaces\Intefaces\obj\Debug\net6.0\refint\Intefaces.dll
+C:\Users\Bishop\Documents\C#\Intefaces\Intefaces\obj\Debug\net6.0\Intefaces.pdb
+C:\Users\Bishop\Documents\C#\Intefaces\Intefaces\obj\Debug\net6.0\Intefaces.genruntimeconfig.cache
+C:\Users\Bishop\Documents\C#\Intefaces\Intefaces\obj\Debug\net6.0\ref\Intefaces.dll
