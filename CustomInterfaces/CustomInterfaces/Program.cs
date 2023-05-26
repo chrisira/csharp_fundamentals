@@ -20,6 +20,9 @@
             damagedCar.DestroyablesNearby.Add(officeChair);
             damagedCar.DestroyablesNearby.Add(gamingChair);
 
+            // destroy the car 
+            damagedCar.Destroy();
+
 
 
 
