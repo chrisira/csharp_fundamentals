@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            DogShelter shelter= new DogShelter();
+
+            foreach (Dog dog in shelter)
+            {
+
+            }
         }
     }
 }
