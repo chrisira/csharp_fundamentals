@@ -1,0 +1,15 @@
+C:\Users\Bishop\Documents\C#\CustomInterfaces\CustomInterfaces\bin\Debug\net6.0\CustomInterfaces.exe
+C:\Users\Bishop\Documents\C#\CustomInterfaces\CustomInterfaces\bin\Debug\net6.0\CustomInterfaces.deps.json
+C:\Users\Bishop\Documents\C#\CustomInterfaces\CustomInterfaces\bin\Debug\net6.0\CustomInterfaces.runtimeconfig.json
+C:\Users\Bishop\Documents\C#\CustomInterfaces\CustomInterfaces\bin\Debug\net6.0\CustomInterfaces.dll
+C:\Users\Bishop\Documents\C#\CustomInterfaces\CustomInterfaces\bin\Debug\net6.0\CustomInterfaces.pdb
+C:\Users\Bishop\Documents\C#\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\CustomInterfaces.csproj.AssemblyReference.cache
+C:\Users\Bishop\Documents\C#\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\CustomInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishop\Documents\C#\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\CustomInterfaces.AssemblyInfoInputs.cache
+C:\Users\Bishop\Documents\C#\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\CustomInterfaces.AssemblyInfo.cs
+C:\Users\Bishop\Documents\C#\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\CustomInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Bishop\Documents\C#\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\CustomInterfaces.dll
+C:\Users\Bishop\Documents\C#\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\refint\CustomInterfaces.dll
+C:\Users\Bishop\Documents\C#\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\CustomInterfaces.pdb
+C:\Users\Bishop\Documents\C#\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\CustomInterfaces.genruntimeconfig.cache
+C:\Users\Bishop\Documents\C#\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\ref\CustomInterfaces.dll

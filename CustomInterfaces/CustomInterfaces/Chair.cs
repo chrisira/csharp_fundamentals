@@ -27,7 +27,7 @@ namespace CustomInterfaces
             // spawn the destroyed chair parts
             Console.WriteLine($"The {Color} chair was destroyed");
             Console.WriteLine($"Playing Destruction sound {0}", DestructionSound);
-            Console.WriteLine("Spawning chari parts ");
+            Console.WriteLine("Spawning chair parts ");
 
            
         }
