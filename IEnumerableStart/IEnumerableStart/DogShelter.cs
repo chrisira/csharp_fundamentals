@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace IEnumerableStart
 {
-    internal class DogShelter
+    internal class DogShelter:IEnumerable<Dog>
     {
         // List of type List<Dog>
         public List<Dog> dogs;
@@ -24,6 +25,16 @@ namespace IEnumerableStart
             };
 
 
+        }
+
+        IEnumerator<Dog> IEnumerable<Dog>.GetEnumerator()
+        {
+            return dogs.GetEnumerator();
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            throw new NotImplementedException();
         }
     }
 }

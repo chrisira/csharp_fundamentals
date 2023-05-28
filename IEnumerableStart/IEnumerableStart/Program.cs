@@ -8,6 +8,14 @@
 
             foreach (Dog dog in shelter)
             {
+                if (!dog.IsNaughtyDog)
+                {
+                    dog.GiveTreat(2);
+                }
+                else
+                {
+                    dog.GiveTreat(1);
+                }
 
             }
         }

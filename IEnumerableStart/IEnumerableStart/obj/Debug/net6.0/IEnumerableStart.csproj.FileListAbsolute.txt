@@ -1,0 +1,15 @@
+C:\Users\Bishop\Documents\C#\IEnumerableStart\IEnumerableStart\bin\Debug\net6.0\IEnumerableStart.exe
+C:\Users\Bishop\Documents\C#\IEnumerableStart\IEnumerableStart\bin\Debug\net6.0\IEnumerableStart.deps.json
+C:\Users\Bishop\Documents\C#\IEnumerableStart\IEnumerableStart\bin\Debug\net6.0\IEnumerableStart.runtimeconfig.json
+C:\Users\Bishop\Documents\C#\IEnumerableStart\IEnumerableStart\bin\Debug\net6.0\IEnumerableStart.dll
+C:\Users\Bishop\Documents\C#\IEnumerableStart\IEnumerableStart\bin\Debug\net6.0\IEnumerableStart.pdb
+C:\Users\Bishop\Documents\C#\IEnumerableStart\IEnumerableStart\obj\Debug\net6.0\IEnumerableStart.csproj.AssemblyReference.cache
+C:\Users\Bishop\Documents\C#\IEnumerableStart\IEnumerableStart\obj\Debug\net6.0\IEnumerableStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishop\Documents\C#\IEnumerableStart\IEnumerableStart\obj\Debug\net6.0\IEnumerableStart.AssemblyInfoInputs.cache
+C:\Users\Bishop\Documents\C#\IEnumerableStart\IEnumerableStart\obj\Debug\net6.0\IEnumerableStart.AssemblyInfo.cs
+C:\Users\Bishop\Documents\C#\IEnumerableStart\IEnumerableStart\obj\Debug\net6.0\IEnumerableStart.csproj.CoreCompileInputs.cache
+C:\Users\Bishop\Documents\C#\IEnumerableStart\IEnumerableStart\obj\Debug\net6.0\IEnumerableStart.dll
+C:\Users\Bishop\Documents\C#\IEnumerableStart\IEnumerableStart\obj\Debug\net6.0\refint\IEnumerableStart.dll
+C:\Users\Bishop\Documents\C#\IEnumerableStart\IEnumerableStart\obj\Debug\net6.0\IEnumerableStart.pdb
+C:\Users\Bishop\Documents\C#\IEnumerableStart\IEnumerableStart\obj\Debug\net6.0\IEnumerableStart.genruntimeconfig.cache
+C:\Users\Bishop\Documents\C#\IEnumerableStart\IEnumerableStart\obj\Debug\net6.0\ref\IEnumerableStart.dll
