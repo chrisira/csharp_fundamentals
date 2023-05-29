@@ -43,6 +43,10 @@
             "Microsoft.Extensions.Localization": {
               "target": "Package",
               "version": "[7.0.5, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
